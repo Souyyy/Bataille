@@ -14,3 +14,6 @@ Le projet est structuré en 3 classes principales :
 1. Clonez le dépôt sur votre machine locale.
 2. Compilez le projet
 3. Exécutez le jeu de carte
+
+## Point de blocage
+J'ai rencontré quelques difficultés pour gérer l'ajout des cartes jouées dans un nouveau paquet et les réutiliser une fois les piles des joueurs épuisées. Par manque de temps, j'ai donc décidé de simplifier cette fonctionnalité en comptabilisant uniquement les scores à la fin d'un seul paquet de carte.
